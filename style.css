@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+#title{
+  Text-align: center;
+}
+
+#gym {
+  height: 800px; 
+  width: 800px; 
+  background-color: #CCC; 
+  margin: auto;
+  font-family: "Outfit", serif;
+}
+
+#mascot {
+  font-size: 50px;
+  position: relative;
+  left: 275px;
+  top: 50px;
+  rotate: 180deg;
+  display: inline-block;  
+  border: 2px solid #3498db;
+}
+
+#mat {
+  height: 400px;
+  width: 600px;
+  background-color: #1E88E5;
+  position: relative;
+  top: 75px;
+  border-style: solid;
+  border-color: #212121;
+  border-width: 5px;
+  text-align: center;
+}
+
+#counter {
+  height: 175px;
+  width: 75px;
+  background-color: #81654f;
+  position: relative; 
+  left: 125px;
+  top: 150px;
+}
+
+#secondCounter {
+  height: 75px;
+  width: 200px;
+  background-color: #81654f;
+  position: relative; 
+  top: -75px;
+  text-align: center;
+}
+
+.seat {
+  height: 55px;
+  width: 55px;
+  background-color: #212121;
+  display: inline-block; 
+  margin: 5px; 
+  position: relative;
+  bottom: 110px;
+  left: 350px;
+  text-align: center;
+  color: white;
+  padding: 11px;
+}
+
+.bag {
+  height: 40px;
+  width: 40px;
+  background-color: #212121;
+  border-radius: 50%;
+  position: relative;
+  margin: 5px; 
+  top: 40px;
+  text-align: center;
+  color: white;
+  padding: 6px;
+  
+}
+
